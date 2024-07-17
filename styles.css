@@ -126,9 +126,10 @@ section {
 footer {
     background-color: #f8f9fa;
     color: #333;
-    width: 80%;
+    width: 100%;
     text-align: center;
-    padding: 1rem;
+    padding: 5px;
+    border: 1px solid #000000;
     box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
     position: fixed;
     bottom: 0;
