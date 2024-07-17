@@ -134,6 +134,21 @@ footer {
     bottom: 0;
 }
 
+footer a.facebook-link {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    color: white;
+    background-color: #3b5998;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+footer a.facebook-link:hover {
+    background-color: #2d4373;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
     section {
